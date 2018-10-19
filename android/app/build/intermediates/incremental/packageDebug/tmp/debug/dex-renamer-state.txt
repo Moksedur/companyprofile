@@ -1,0 +1,4 @@
+#Fri Oct 19 23:12:32 BDT 2018
+base.0=/Users/mdmoksedurrahman/project/comp/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
